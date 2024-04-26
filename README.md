@@ -1,3 +1,7 @@
+# About this fork
+Nothing added.
+See blog post https://dev.to/aws-builders/s3-virus-scanning-with-typescript-and-nodejs-20x-aws-lambda-container-220f
+
 # ClamAV 1.2.1 with AWS Lambda Container Images for Node.js 20.x
 
 CDK project for deploying a ClamAV 1.2.1 with AWS Lambda Container Images for Node.js 20.x
